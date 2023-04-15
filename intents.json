@@ -33,14 +33,9 @@
     },
     {
       "tag": "items",
-      "patterns": [
-        "Which items do you have?",
-        "What kinds of items are there?",
-        "What do you sell?"
-      ],
+      "patterns": ["What is the process for buying items on your website?"],
       "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
+        "Our website allows you to purchase souvenirs online.Simply select the quantity you wish to purchase, complete the payment process, and we will deliver the souvenir to you."
       ]
     },
     {
@@ -63,10 +58,7 @@
         "How long does shipping take?",
         "When do I get my delivery?"
       ],
-      "responses": [
-        "Delivery takes 2-4 days",
-        "Shipping takes 2-4 days"
-      ]
+      "responses": ["Delivery takes 2-4 days", "Shipping takes 2-4 days"]
     },
     {
       "tag": "funny",
